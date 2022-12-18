@@ -1,0 +1,1 @@
+var json_Gereja_10 = {"type":"FeatureCollection","name":"Gereja_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"0","Keterangan":"Gereja"},"geometry":{"type":"MultiPoint","coordinates":[[110.418188934903043,-6.985366868511725],[110.420698654205992,-6.98394295246657]]}}]}

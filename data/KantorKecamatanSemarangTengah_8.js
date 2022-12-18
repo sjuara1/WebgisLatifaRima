@@ -1,0 +1,1 @@
+var json_KantorKecamatanSemarangTengah_8 = {"type":"FeatureCollection","name":"KantorKecamatanSemarangTengah_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Ket":"Kantor Kecamatan Semarang Tengah"},"geometry":{"type":"Point","coordinates":[110.419726892816527,-6.98371883190132]}}]}
